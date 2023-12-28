@@ -12,7 +12,7 @@ const CartItem = ({ item }) => {
             </View>
             <Entypo name='trash' size={25} color="black" />
         </View>
-
+//
     )
 }
 
